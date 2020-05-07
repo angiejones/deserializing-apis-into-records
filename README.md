@@ -1,2 +1,10 @@
-# deserializing-apis-into-records
-Deserializing API Responses Into Java Records
+# Deserializing API Responses Into Java Records
+
+Code to deserialize API responses into the new Java construct: Record, and use it for easier verification.
+
+**Tools Used**
+* Rest-Assured
+* Jackson Binding
+
+[Full Blog Post](https://angiejones.tech/deserializing-api-responses-into-java-records) | [Video Tutorial]()
+
